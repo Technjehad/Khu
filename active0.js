@@ -1,7 +1,7 @@
 $(document).ready(function() {
-var btnactivate = "HERE";
-var urlactivate = "YOURURL";
-var messageerror = "Message of Activation";
+var btnactivate = "هنا";
+var urlactivate = "https://www.facebook.com/Techn7ical";
+var messageerror = "أهلا عزيز يجب تفعيل القالب من";.
 
     var a = $(".quickedit").attr("href"),
         a = a.substring(35, 54),
