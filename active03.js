@@ -22,7 +22,7 @@ var messageerror = "أهلا عزيز يجب تفعيل القالب من";
         p = a.substring(16, 19),
         q = "8" + k + "71" + c + "926" + l + g + "09" + i + "43" + n + "54" + h + "2" + f + "3536" + j + "871" + b + "329" + d + "246" + m + "04253" + b + "53044" + e + "2235" + o + "21252" + i + "005" + h + "25" + b + "310" + d + "02" + g + "10" + p + "70" + l + "72575" + o + "8102" + n + "5342" + e + "85" + j + "7231" + m + e + d + l + p + o + n + m + j + d + "1525";
 
- $("#activeblog").text() != q && $("body").html('<div class='backgroundjehad'><div id="no-active"></div>'+ messageerror +'<span><a href='+ urlactivate +'> '+btnactivate+'</a></span></div>');
+ $("#activeblog").text() != q && $("body").html('<div class='backgroundjehad'><div id="no-active">'+ messageerror +'<span><a href='+ urlactivate +'> '+btnactivate+'</a></span></div></div>');
 
 
 });
